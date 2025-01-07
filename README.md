@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+## Data Science in Business BSc student, in Corvinus University of Budapest
 
 <!--
 **babesz42/babesz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
