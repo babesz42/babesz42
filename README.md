@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## *Data Science in Business BSc* student, in Corvinus University of Budapest
-
+## This github profile is where I upload my projects
 <!--
 **babesz42/babesz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
